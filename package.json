@@ -1,0 +1,22 @@
+{
+    "name": "whatlm",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "v0": "npx ts-node models/v0.ts",
+        "qna": "npx ts-node models/qna.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "devDependencies": {
+        "@eslint/js": "^9.26.0",
+        "@types/node": "^22.15.18",
+        "eslint": "^9.26.0",
+        "globals": "^16.1.0",
+        "typescript": "^5.8.3",
+        "typescript-eslint": "^8.32.1"
+    }
+}
