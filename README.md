@@ -1,4 +1,4 @@
-![cover](./assets/cover.png)
+<img src="./assets/cover.png" style="width: 100%" />
 
 ## WhatLm
 
